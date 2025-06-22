@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+}
+#simulator{
+    background-color: green;
+    height: 500px;
+    width: 500px;
+}
+.pixel{
+    background-color: rgb(255, 255, 255);
+    height: 1px;
+    width: 1px;
+    position: absolute;
+}
